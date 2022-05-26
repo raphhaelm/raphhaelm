@@ -37,13 +37,14 @@ Agora na programação ja desenvolvi:
  
 </div>
 ## Soft Skills
-- Metodologia ágil
-- Trello
-- Aprender a aprender                                                                                                                                               
-- Trabalho em equipe                                                                                                                                               
-- Gestão de conflitos
-- Postura Profissional                                                                                                                                               
-                         
+ - Metodologia ágil
+ - Scrum
+ - Kanban
+ - Trello
+ - Trabalho em grupo
+ - CNV
+ - Postura Profissional
+ 
 
 <!--
 **raphhaelm/raphhaelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
