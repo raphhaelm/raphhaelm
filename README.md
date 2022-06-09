@@ -1,6 +1,9 @@
 # Oi, eu sou o Rapha Marques 🧑🏽‍💻
 Sou desenvolvedor fullstack, técnico em informatica, mineiro, marido e algumas coisa mais.<br>
-Aprendi JavaScript, HTML5, CSS3, NodeJs, Mysql e React na Resilia Educação, assim descobri que sou fã de programação. 😍<br>
+Aprendi React, NodeJs, JavaScript, HTML5, CSS3 e Mysql na Resilia Educação. 😍<br>
+Este perfil contém os repositorios que criamos durante o curso, muitos desafios, muitas horas de código, centenas de commits <br>
+e é só o começo, Você gosotu de algum projeto aqui? 
+Me chama pra gente conversar!
 
 <div aling="center> 
   <a href="https://github.com/raphhaelm>
