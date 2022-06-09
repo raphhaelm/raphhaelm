@@ -2,8 +2,8 @@
 Sou desenvolvedor fullstack, técnico em informatica, mineiro, marido e algumas coisa mais.<br>
 Aprendi React, NodeJs, JavaScript, HTML5, CSS3 e Mysql na Resilia Educação. 😍<br>
 Este perfil contém os repositorios que criamos durante o curso, muitos desafios, muitas horas de código, centenas de commits <br>
-e é só o começo, Você gosotu de algum projeto aqui? 
-Me chama pra gente conversar!
+e é só o começo, Você gostou de algum projeto aqui?<br> 
+Me chama pra gente conversar!<hr>
 
 <div aling="center> 
   <a href="https://github.com/raphhaelm>
