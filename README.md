@@ -21,7 +21,7 @@ Agora na programação ja desenvolvi:
 * [Site da Hamburgueria](https://devburger.netlify.app/) Este site consome a API rest e foi desenvolvida utilizando React.
 * [Api rest](https://github.com/raphhaelm/ApiRest-Hamburgueria) em nodeJs, onde eu posso criar uma lista de clientes, cadastrar fornecedores, criar um cardapio e anotar pedidos.
 * [Landing page](https://raphhaelm.github.io/LandingPage-Tony/) para um produto digital, que ajuda na vida de DEVs.
-* [Jogo com tema luta](https://github.com/raphhaelm/TorneioDosCampeos) onde o jogador interage via prompt
+* [Jogo com tema luta](https://raphhaelm.github.io/TorneioDosCampeos/) onde o jogador interage via prompt
 * [Dashboard](https://github.com/raphhaelm/Dashboard-Steam/blob/main/Dashboard_Steam.pdf) apresentando dados de um banco de dados relacional
 <hr>
 ## Tech Skills
