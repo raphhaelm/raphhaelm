@@ -14,6 +14,7 @@ Me chama pra gente conversar!<hr>
 Sou muito curioso e adoro novas técnologias, ja instalei na minha casa, Sensores de presença, interruptores Wifi, Rede Wifi Mesh, Fechadura digital, Assistentes pessoais... Agora estou doido para ter um Robô aspirador rsrs.<br>
 Trabalho ha mais de 10 anos na área de suporte técnico em informática, resolvendo problemas em servidores, rede estrututradas, backups, notebooks e estações de trabalho.
 Sou "o cara do TI".<br>
+<<<<<<< Updated upstream
 Agora na programação ja desenvolvi:<br><br>
 * <a href='https://github.com/raphhaelm/TorneioDosCampeos'>Jogo com tema luta</a> onde o jogador interage via prompt <br>
 * <a href='https://github.com/raphhaelm/LandingPage-Tony'> Landing page</a> para um produto <br>
@@ -21,6 +22,17 @@ Agora na programação ja desenvolvi:<br><br>
 * <a href='https://github.com/raphhaelm/ApiRest-Hamburgueria'>Api restfull</a> em nodeJs, onde eu posso criar uma lista de clientes, cadastrar fornecedores, criar um cardapio e anotar pedidos. <br>
 
 <h2> Tech Skills 🪄🎩</h2>
+=======
+Agora na programação ja desenvolvi:
+
+* [Site da Hamburgueria](https://devburger.netlify.app/) Este site consome a API rest e foi desenvolvida utilizando React.
+* [Api rest](https://github.com/raphhaelm/ApiRest-Hamburgueria) em nodeJs, onde eu posso criar uma lista de clientes, cadastrar fornecedores, criar um cardapio e anotar pedidos.
+* [Landing page](https://raphhaelm.github.io/LandingPage-Tony/) para um produto digital, que ajuda na vida de DEVs.
+* [Jogo com tema luta](https://github.com/raphhaelm/TorneioDosCampeos) onde o jogador interage via prompt
+* [Dashboard](https://github.com/raphhaelm/Dashboard-Steam/blob/main/Dashboard_Steam.pdf) apresentando dados de um banco de dados relacional
+<hr>
+## Tech Skills
+>>>>>>> Stashed changes
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
